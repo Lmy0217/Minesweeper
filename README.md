@@ -1,7 +1,10 @@
 # Minesweeper
+
+[中文](README_zh.md)
+
 Windows 7 Minesweeper imitation with Windows SDK, all of effect almost come true.
 
-## Software Development Environment
+## Development Environment
 * Windows 7 x64
 * Visual Studio 2013
 
