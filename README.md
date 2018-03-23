@@ -1,4 +1,5 @@
 # Minesweeper
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/Lmy0217/Minesweeper/master.svg?style=flat-square&label=AppVeyor&logo=appveyor)](https://ci.appveyor.com/project/lmy0217/minesweeper/branch/master)
 
 [中文](README_zh.md)
 
