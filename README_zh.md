@@ -1,6 +1,5 @@
 # 扫雷
-
-[English](README.md)
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/Lmy0217/Minesweeper/master.svg?label=AppVeyor&logo=appveyor)](https://ci.appveyor.com/project/lmy0217/minesweeper/branch/master) [![English](https://img.shields.io/badge/README-English-blue.svg)](README.md)
 
 用 Windows SDK 编写的仿 Windows 7 扫雷程序，基本实现所有效果。
 
